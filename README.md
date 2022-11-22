@@ -9,3 +9,6 @@ g++.exe (Rev1, Built by MSYS2 project) 12.2.0
 
 ***Video explicando el programa:***
 https://youtu.be/LaACXL0NIOE
+
+***Video extra haciendo algunos testeos (No tiene nada que ver con el video original de la explicacion):***
+En proceso...
