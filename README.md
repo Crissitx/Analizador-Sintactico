@@ -1,7 +1,7 @@
 # Analizador Sintactico Oraciones Simples
 ## Un analizador sintactico para oraciones simples en español realizado en C++
 
-__IMPORTANTE:__ El proyecto funciona en base a las palabras encontrada dentro de los archivos del proyecto (Files/) si alguna no se encuentra, entonces si o si habrá algún error.
+__IMPORTANTE:__ El proyecto funciona en base a las palabras encontrada dentro de los archivos del proyecto (Files/) si alguna no se encuentra, entonces si o si habrá algún error. Si una de las palabras que quieres usar no se encuentra en los archivos de texto, sientete libre de agregarla.
 Algunas listas de palabras se obtuvieron del siguiente GitHub: https://github.com/JorgeDuenasLerin/diccionario-espanol-txt
 
 ***Creador del proyecto:***
