@@ -1,5 +1,5 @@
 # Analizador Sintactico Oraciones Simples
-###### Un analizador sintactico para oraciones simples en español realizado en C++
+## Un analizador sintactico para oraciones simples en español realizado en C++
 
 ***Creador del proyecto:***
 Cristian Camilo Cardenas Mogollon, estudiante de Eafit
