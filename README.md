@@ -8,4 +8,4 @@ Cristian Camilo Cardenas Mogollon, estudiante de Eafit
 g++.exe (Rev1, Built by MSYS2 project) 12.2.0
 
 ***Video explicando el programa:***
-En proceso...
+https://youtu.be/LaACXL0NIOE
